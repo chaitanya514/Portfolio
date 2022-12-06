@@ -30,8 +30,8 @@ function Main() {
       <Experience />
       <Education />
       <Skills />
-      <Projects />
-      <Achievement />
+      {/* <Projects /> */}
+      {/* <Achievement /> */}
       <Services />
       {/* <Testimonials /> */}
 
